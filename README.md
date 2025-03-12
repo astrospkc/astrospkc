@@ -3,6 +3,11 @@
 
 ### 🚀 About Me  
 I'm a passionate **Full-Stack Developer** with over actual 1.5 years of experience in building scalable and efficient web applications. I love solving real-world problems through code and creating seamless user experiences.  
+- Exploring open source contribution
+- I love writing technical as well non-technical blogs
+- I love sketching, portraits.
+- Reach out to me if you are a traveller.
+- Get connected with me on my projects.
 
 ### 🛠️ Tech Stack  
 - **Frontend:** React.js, Next.js, Tailwind CSS  
