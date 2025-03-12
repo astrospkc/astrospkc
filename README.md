@@ -7,7 +7,7 @@ I'm a passionate **Full-Stack Developer** with over actual 1.5 years of experien
 - I love writing technical as well non-technical blogs
 - I love sketching, portraits.
 - Reach out to me if you are a traveller.
-- Get connected with me on my projects.
+- Get connected with me on my projects and right below there is connect with me , get connected there.
 
 ### 🛠️ Tech Stack  
 - **Frontend:** React.js, Next.js, Tailwind CSS  
@@ -27,6 +27,7 @@ Currently exploring **Go** and improving backend architecture scalability.
 - [LinkedIn](https://www.linkedin.com/in/punam-kumari-2018951b6/)  
 - [Portfolio](https://punam-portfolio.vercel.app/)
 - [X](https://x.com/punamku22075700)
+- [Medium](https://medium.com/@punamkumari399)
 
 ---
 
