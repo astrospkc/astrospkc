@@ -2,23 +2,17 @@
 # 👋 Hi, I'm Punam Kumari!  
 
 ### 🚀 About Me  
-I'm a passionate **Full-Stack Developer** with over actual 1.5 years of experience in building scalable and efficient web applications. I love solving real-world problems through code and creating seamless user experiences.  
+I love solving real-world problems through code and creating seamless user experiences.  
 - Exploring open source projects
 - I love writing technical as well non-technical blogs
 - I love sketching, portraits.
-- Reach out to me if you are a traveller.
 - Get connected with me on my projects and right below there is connect with me , get connected there.
 
 ### 🛠️ Tech Stack  
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js, Go  
 - **Databases:** MongoDB, PostgreSQL  
-- **Other Tools:** Git, Drizzle ORM, Supabase, Socket.io  
-
-### 🌟 Key Projects  
-- **Mood-Tracker Journal:** Built a journaling platform to track mood patterns, provide feedback, and suggest improvements.  
-- **DXV:** Created a social platform with group collaboration, real-time communication, and project sharing.  
-- **Chat-Dash:** Developed a real-time group chat application with message updates and typing indicators.  
+- **Other Tools:** Git, Drizzle ORM, Supabase, Socket.io    
 
 ### 🌱 What I'm Learning  
 Currently exploring **Go** and improving backend architecture scalability.  
