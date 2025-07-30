@@ -5,7 +5,7 @@
    - Tech stack: Nextjs, Go
    - [frontend](https://github.com/astrospkc/One-Go)  [backend](https://github.com/astrospkc/cms_gobackend)
 2. Vritti- Mood Journal App
-   - [frontend](https://github.com/astrospkc/mood-tracker-journal-frontend-)  [backend](https://github.com/astrospkc/mood-tracker-backend-)
+   - [frontend](https://github.com/astrospkc/Vritti-frontend-)  [backend](https://github.com/astrospkc/Vritti-backend)
    - Tech stack: React, Javascript, Typescript(wanna go)
    - I would highly recommend github folks to come up with ideas and do contribute here if you feel that this project somehow usefull for the people out there.
 
