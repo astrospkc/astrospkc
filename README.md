@@ -3,7 +3,7 @@
 ### The most recent project that I am working on 
 1. One-Go(CMS-as-a-service)
    - Tech stack: Nextjs, Go
-   - [frontend](https://github.com/astrospkc/One-Go)  [backend](https://github.com/astrospkc/cms_gobackend)
+   - [frontend](https://github.com/astrospkc/One-Go-private-)  [backend](https://github.com/astrospkc/One-Go-backend-private)
 2. Vritti- Mood Journal App
    - [frontend](https://github.com/astrospkc/Vritti-frontend-)  [backend](https://github.com/astrospkc/Vritti-backend)
    - Tech stack: React, Javascript, Typescript(wanna go)
