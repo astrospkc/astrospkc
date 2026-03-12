@@ -48,7 +48,7 @@ I'm a passionate **Full Stack Developer** who thrives at the intersection of gre
 ### 🧠 One-Go — *CMS-as-a-Service*
 > A headless CMS platform built with Next.js & Go for seamless content management
 ## Live site:
-[Open One-Go](https://one-go-private.vercel.app/)
+[🚀Open One-Go](https://one-go-private.vercel.app/)
 | | |
 |---|---|
 | **Frontend** | [![One-Go Frontend](https://img.shields.io/badge/Repo-One--Go--Frontend-6C63FF?style=for-the-badge&logo=github)](https://github.com/astrospkc/One-Go-private-) |
