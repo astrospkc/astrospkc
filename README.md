@@ -1,16 +1,4 @@
-<div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Punam+Kumari!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
-
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=astrospkc&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/astrospkc?style=for-the-badge&color=FF6B9D&logo=github)](https://github.com/astrospkc?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/astrospkc?style=for-the-badge&color=FF6B9D&logo=github)](https://github.com/astrospkc)
-
-</div>
-
----
 
 ## 🧠 About Me
 
