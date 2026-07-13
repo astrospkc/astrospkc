@@ -105,18 +105,10 @@ I'm a passionate **Full Stack Developer** who thrives at the intersection of gre
 </div>
 
 <!-- Contribution Graph -->
-<div align="center">
 
-[![Punam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astrospkc&theme=redical&hide_border=true&color=FF6B9D&line=FF6B9D&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 <!-- GitHub Trophies -->
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=astrospkc&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -126,21 +118,7 @@ I'm a passionate **Full Stack Developer** who thrives at the intersection of gre
 > ✍️ I share my learnings on [Medium](https://medium.com/@punamkumari399) — technical deep-dives, dev journeys, and beyond.
 <!-- BLOG-POST-LIST:END -->
 
-*→ To auto-update this section with your latest Medium posts, set up [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action!*
 
----
-
-## 🌱 Currently Exploring
-
-```go
-// Punam's current learning path 🚀
-type LearningPath struct {
-    Language     string   // "Go — production-grade backends"
-    Architecture []string // ["Microservices", "Event-Driven", "Clean Architecture"]
-    Tools        []string // ["Docker", "CI/CD", "System Design"]
-    Goal         string   // "Build systems that scale"
-}
-```
 
 ---
 
