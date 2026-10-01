@@ -1,143 +1,67 @@
-
-
 ## 🧠 About Me
 
-> *"I love solving real-world problems through code and creating seamless user experiences."*
+I'm a **Full Stack Developer** who loves to experiment with new things and enjoys building products from the ground up. I'm especially interested in the **system side of the product** and in **backend engineering** — designing scalable systems, building reliable APIs, and turning ideas into working software.
 
-I'm a passionate **Full Stack Developer** who thrives at the intersection of great design and solid engineering. Whether it's building scalable backends in **Go**, crafting smooth frontend experiences with **Next.js**, or sharing ideas through **technical blogs** — I'm always creating.
-
-- 🔭 Currently building **ViralForge** — an AI-powered viral content tool
-- 🌱 Deep-diving into **Go** & backend architecture scalability
-- ✍️ I write both **technical & non-technical blogs** on [Medium](https://medium.com/@punamkumari399)
-- 🎨 I love **sketching & portraits** in my free time
-- 💬 Open to collaborations, ideas, and contributions!
+- 🔭 Currently building **RAG Chatbot** and **ViralForge**
+- 🛠️ Interested in **backend architecture**, systems, and product engineering
+- 💡 I enjoy exploring new tools, frameworks, and technologies
+- 🚀 Open to collaborations, ideas, and meaningful product work
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Main Projects
 
-### 🔥 ViralForge — *[NEW & Active]*
-> AI-powered viral content generation & automation platform
-
-| | |
-|---|---|
-| **Frontend** | [![ViralForge Frontend](https://img.shields.io/badge/Repo-ViralForge--Frontend-FF6B9D?style=for-the-badge&logo=github)](https://github.com/astrospkc/Viralforge) |
-| **Backend** | [![ViralForge Backend](https://img.shields.io/badge/Repo-ViralForge--Backend-FF6B9D?style=for-the-badge&logo=github)](https://github.com/astrospkc/ViralForge-backend) |
-| **Status** | ![Active](https://img.shields.io/badge/Status-🔥%20Actively%20Building-brightgreen?style=flat-square) |
-
-<!-- Daily Activity Tracker for ViralForge -->
-**📊 ViralForge — Live Repo Stats**
-
-![ViralForge Frontend](https://github-readme-stats.vercel.app/api/pin/?username=astrospkc&repo=Viralforge&theme=radical&border_color=FF6B9D)
-![ViralForge Backend](https://github-readme-stats.vercel.app/api/pin/?username=astrospkc&repo=ViralForge-backend&theme=radical&border_color=FF6B9D)
-
----
-
-### 🧠 One-Go — *CMS-as-a-Service*
-> A headless CMS platform built with Next.js & Go for seamless content management
-## Live site:
-[🚀Open One-Go](https://one-go-private.vercel.app/)
-| | |
-|---|---|
-| **Frontend** | [![One-Go Frontend](https://img.shields.io/badge/Repo-One--Go--Frontend-6C63FF?style=for-the-badge&logo=github)](https://github.com/astrospkc/One-Go-private-) |
-| **Backend** | [![One-Go Backend](https://img.shields.io/badge/Repo-One--Go--Backend-6C63FF?style=for-the-badge&logo=github)](https://github.com/astrospkc/One-Go-backend-private) |
-| **Tech** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-
----
-
-### 💜 Vritti — *Mood Journal App*
-> Track your emotions, reflect on your day — a mindful journaling companion
+### 🤖 RAG Chatbot
+AI-powered chatbot built with retrieval-augmented generation for smarter, context-aware conversations.
 
 | | |
 |---|---|
-| **Frontend** | [![Vritti Frontend](https://img.shields.io/badge/Repo-Vritti--Frontend-9B59B6?style=for-the-badge&logo=github)](https://github.com/astrospkc/Vritti-frontend-) |
-| **Backend** | [![Vritti Backend](https://img.shields.io/badge/Repo-Vritti--Backend-9B59B6?style=for-the-badge&logo=github)](https://github.com/astrospkc/Vritti-backend) |
-| **Tech** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend** | [![RAG Chatbot Frontend](https://img.shields.io/badge/Repo-RAG--Chatbot--Frontend-3498DB?style=flat-square&logo=github)](https://github.com/astrospkc/rag-chatbot-frontend) |
+| **Backend** | [![RAG Chatbot Backend](https://img.shields.io/badge/Repo-RAG--Chatbot--Backend-3498DB?style=flat-square&logo=github)](https://github.com/astrospkc/rag-chatbot-backend) |
 
-> 💡 **Contribute here!** If Vritti resonates with you, feel free to open issues, suggest features, or submit PRs. Let's build something meaningful together! 🙌
+### 🔥 ViralForge
+AI-powered content generation and automation platform focused on helping creators grow faster.
+
+| | |
+|---|---|
+| **Frontend** | [![ViralForge Frontend](https://img.shields.io/badge/Repo-ViralForge--Frontend-FF6B9D?style=flat-square&logo=github)](https://github.com/astrospkc/Viralforge) |
+| **Backend** | [![ViralForge Backend](https://img.shields.io/badge/Repo-ViralForge--Backend-FF6B9D?style=flat-square&logo=github)](https://github.com/astrospkc/ViralForge-backend) |
 
 ---
 
 ## 🛠️ Tech Stack
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=astrospkc&show_icons=true&theme=radical&border_color=FF6B9D&hide_border=false)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Daily Activity
+## 📫 Connect
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=astrospkc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B9D"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrospkc&layout=compact&langs_count=8&theme=radical&border_color=FF6B9D"/>
-
-</div>
-
-<!-- Contribution Streak -->
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=astrospkc&theme=radical&border=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
-
-</div>
-
-<!-- Contribution Graph -->
-
-
-<!-- GitHub Trophies -->
-
-
----
-
-## 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-> ✍️ I share my learnings on [Medium](https://medium.com/@punamkumari399) — technical deep-dives, dev journeys, and beyond.
-<!-- BLOG-POST-LIST:END -->
-
-
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-kumari-2018951b6/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://punam-portfolio.vercel.app/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/punamku22075700)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@punamkumari399)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astrospkc)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/punam-kumari-2018951b6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=flat-square&logo=vercel)](https://punam-portfolio.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium)](https://medium.com/@punamkumari399)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github)](https://github.com/astrospkc)
 
 ---
 
 <div align="center">
 
-*✨ Thanks for stopping by! If any of my projects spark an idea, don't hesitate to open an issue, drop a star ⭐, or reach out. Let's build something great together!*
+*✨ Let’s build something meaningful together.*
 
 </div>
